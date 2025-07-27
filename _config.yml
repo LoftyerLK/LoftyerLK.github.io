@@ -7,7 +7,7 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://caihanlin.com
+url: https://Kailin.com
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -48,7 +48,7 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 #  `external: true` opens the link in a new tab.
 # --------------------------------------------------
 links:
-  - title: About Me
+  - title: Home
     url: /
   - title: Publications
     url: /publications/
