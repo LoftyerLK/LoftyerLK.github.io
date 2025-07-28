@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="//images/kailin.JPG" class="floatpic">
 
 Here is **Kai Lin (林凯)**.<br>
 

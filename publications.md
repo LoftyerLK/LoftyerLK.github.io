@@ -4,7 +4,6 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-***
 
 <h3><font face="新罗马">Journal Paper</font></h3>
 
@@ -16,10 +15,6 @@ title: Publications
 
 - **<font color= red>[JNCA'22]</font>** **K. Lin**, H. Chen, X. Ai, V. Shakhov, L. Ni, J. Yu, and Y. Li. “[**<font color= BLACK>EUMD: Efficient slot utilization based missing tag detection with unknown tags</font>**](https://www.sciencedirect.com/science/article/abs/pii/S1084804520301144),” **Journal of Network and Computer Applications**, vol.160, no.15, 2020. (**SCI二区, IF: 8.7**).
 
-***
-
 <h3><font face="新罗马">Conference Paper</font></h3>
 
 - **<font color= red>[MSN'22]</font>** **K. Lin**,  H. Chen, N. Yan, Z. Ni, and Z. Li. “[**Compact Unknown Tag Identification for Large-Scale RFID Systems**](https://ieeexplore.ieee.org/document/10076567),” in Proc. of MSN 2022. (**CCF C**).
-
-<br>

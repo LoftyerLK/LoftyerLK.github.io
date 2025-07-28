@@ -4,6 +4,15 @@ permalink: /Funding/index.html
 title: Funding
 ---
 
+- <font face="黑体">大规模传感器增强的RFID系统标签监测关键技术研究, 山东省自然自然科学基金青年基金项目, ZR2024QF059, 2025.01-2027.12. 主持</font>
+
+- <font face="黑体">大规模RFID系统高效标签监测方法研究, 中国石油大学研究生创新工程资助项目. YCX2020096, 2020.09-2021.11. 主持</font>
+
+- <font face="黑体">基于无线传感器网络的长输管道监测研究，国家自然科学基金国际（地区）合作与交流项目, 62111530052, 2021.01-2022.12. 参与</font>
+
+- <font face="黑体">群智感知驱动的车联网安全计算, 山东省优秀青年基金, ZR2022YQ61, 2023-2025. 参与</font>
+
+
 This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or cycling together, feel free to contact me!
 
 # Hobbies
