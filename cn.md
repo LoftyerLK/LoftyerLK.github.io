@@ -4,9 +4,7 @@ permalink: /cn/index.html
 title: 主页中文版
 ---
 
-## 关于我
 
-<img src="https://caihanlin.com/backup/caihalin(2025).JPG" class="floatpic">
 
 <br>
 
