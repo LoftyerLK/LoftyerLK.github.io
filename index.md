@@ -1,8 +1,7 @@
 ---
 layout: page
 ---
-
-<img src="/kailin.JPG" class="floatpic">
+<img src="/kailin.jpg" alt="kailin" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; margin-right: 2rem;" class="floatpic">
 
 Here is **Kai Lin (林凯)**.<br>
 
