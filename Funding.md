@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Funding/index.html
+permalink: /funding/index.html
 title: Funding
 ---
 
