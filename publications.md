@@ -6,7 +6,7 @@ title: Publications
 
 ***
 
-## <font face="新罗马">Journal Paper</font>
+<h3><font face="新罗马">Journal Paper</font></h3>
 
 - **<font color= red>[TMC'24]</font>** **K. Lin**, H. Chen, N. Yan, Z. Ni, Z. Wang, and J. Yu. “[**<font color= BLACK>Double Polling Based Tag Information Collection for Sensor-Augmented RFID Systems</font>**](https://ieeexplore.ieee.org/document/10129835/),” in **IEEE Transactions on Mobile Computing**, vol. 23, no. 5, pp. 3496-3509, 2024. (**CCF A, SCI一区, IF: 9.2**).
   
@@ -18,7 +18,7 @@ title: Publications
 
 ***
 
-## <font face="新罗马">Conference Paper</font>
+<h3><font face="新罗马">Conference Paper</font></h3>
 
 - **<font color= red>[MSN'22]</font>** **K. Lin**,  H. Chen, N. Yan, Z. Ni, and Z. Li. “[**Compact Unknown Tag Identification for Large-Scale RFID Systems**](https://ieeexplore.ieee.org/document/10076567),” in Proc. of MSN 2022. (**CCF C**).
 
