@@ -4,22 +4,21 @@ layout: page
 
 <img src="kailin.JPG" class="floatpic">
 
-![alt text](kailin-1.jpg)
 Here is **Kai Lin (林凯)**.<br>
 
 An Associate Professor, Master's Supervisor, Executive Committee Member of the Internet of Things Special Committee of CCF. Has successively served as the principal investigator or participated in national-level and provincial-level projects such as the Youth Project of the National Natural Science Foundation of China and the Youth Project of the Shandong Provincial Natural Science Foundation. 
 
 ---
 
-## Research Interests
+<h3><font face="新罗马">Research Interests</font></h3>
 
-- Internet of Things
-- Radio Frequency Identification Technology
-- Underwater Wireless Sensor Network
+- Internet of Things (IoTs)
+- Radio Frequency Identification (RFID) Technology
+- Underwater Wireless Sensor Networks (UWSNs)
 
 ---
 
-## News and Updates
+<h3><font face="新罗马">News and Updates</font></h3>
 
 - **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
