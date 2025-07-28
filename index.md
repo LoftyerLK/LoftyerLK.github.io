@@ -8,20 +8,15 @@ layout: page
 
 Here is **Kai Lin (林凯)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
-
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
-
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+Associate Professor, Master's Supervisor, Executive Committee Member of the Internet of Things Special Committee of CCF. Has successively served as the principal investigator or participated in national-level and provincial-level projects such as the Youth Project of the National Natural Science Foundation of China and the Youth Project of the Shandong Provincial Natural Science Foundation. Youth Project and the Shandong Provincial Natural Science Foundation's Youth Project.
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+- Internet of Everything
+- Radio Frequency Identification Technology
+- Underwater Wireless Sensor Network
 
 ---
 
