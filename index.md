@@ -2,19 +2,17 @@
 layout: page
 ---
 
-# Home
-
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
 Here is **Kai Lin (林凯)**.<br>
 
-Associate Professor, Master's Supervisor, Executive Committee Member of the Internet of Things Special Committee of CCF. Has successively served as the principal investigator or participated in national-level and provincial-level projects such as the Youth Project of the National Natural Science Foundation of China and the Youth Project of the Shandong Provincial Natural Science Foundation. Youth Project and the Shandong Provincial Natural Science Foundation's Youth Project.
+An Associate Professor, Master's Supervisor, Executive Committee Member of the Internet of Things Special Committee of CCF. Has successively served as the principal investigator or participated in national-level and provincial-level projects such as the Youth Project of the National Natural Science Foundation of China and the Youth Project of the Shandong Provincial Natural Science Foundation. 
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
+- Internet of Things
 - Radio Frequency Identification Technology
 - Underwater Wireless Sensor Network
 

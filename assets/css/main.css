@@ -70,7 +70,7 @@ abbr,acronym,blockquote,code,dir,kbd,listing,plaintext,q,samp,tt,var,xmp{-webkit
 pre code{word-wrap:normal;white-space:-moz-pre-wrap;white-space:pre-wrap;}
 pre{white-space:pre;}
 code{white-space:pre;font-family:monospace;}
-abbr{font-variant:small-caps;font-weight:400;text-transform:lowercase;color:#333332;}abbr:hover{cursor:help;}
+abbr{font-variant:small-caps;font-weight:600;text-transform:lowercase;color:#333332;}abbr:hover{cursor:help;}
 h1,h2,h3,h4,h5,h6{color:#333332;}
 .lining dt,.lining dd{display:inline;margin:0;}
 .lining dt+dt:before,.lining dd+dt:before{content:"\A";white-space:pre;}
