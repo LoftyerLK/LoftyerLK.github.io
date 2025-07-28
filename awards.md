@@ -4,25 +4,20 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships
+-林凯, 李哲; 倪志琛. 基于云边端协同的物联网智能感知与安全计算, 山东省教育厅, 山东省研究生创新成果奖, 2023.
 
-- May 2025：**Cambridge CSC Trust Scholarship** (totally £190,000 for tuition waiver and stipend)
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, Five times)<br>Combined degree scholarship between FZU and Maynooth<br>
+-林凯, 李哲; 艾欣. 物联网智能监测与安全计算关键技术, 山东省教育厅, 山东省研究生优秀成果奖三等奖, 2020.
 
-## Competitions
+-林凯. 含未知标签的大规模RFID系统中丢失标签检测方法研究, 山东省教育厅, 山东省优秀硕士学位论文, 2020.
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**Best Technology Award** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize in China Undergraduate Mathematical Contest in Modeling
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+-林凯. 硕士研究生国家奖学金, 中国石油大学(华东), 2018.
 
-<br>
+-林凯. 中国石油大学（华东）“学术十杰”提名奖, 中国石油大学(华东), 2023.
+
+-林凯. 中国石油大学研究生优秀学位论文, 中国石油大学(华东), 2019.
+
+-林凯. 中石油奖学金, 中国石油大学(华东), 2022.
+
+-林凯. 中国石油大学优秀研究生, 中国石油大学(华东), 2021.
+
+-闫娜, 林凯, 等. 第七届山东省“互联网+”大学生创新创业大赛银奖, 山东省教育厅, 2021.
