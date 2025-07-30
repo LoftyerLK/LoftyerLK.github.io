@@ -19,9 +19,9 @@ title: Publications
 
 - **<font color= red>[TIFS'21]</font>** X. Ai, H. Chen, **K. Lin**, Z. Wang and J. Yu. “[**<font color= BLACK>Nowhere to Hide: Efficiently Identifying Probabilistic Cloning Attacks in Large-Scale RFID Systems</font>**](),” IEEE Transactions on Information Forensics and Security, vol. 16, pp. 714-727, 2021. **(CCF A, SCI一区)**
 
--**<font color= red>[TII'22]</font>** H. Chen, X. Ai, **K. Lin**, N. Yan, N. Jiang, Z. Wang, J. Yu. “[**<font color= BLACK>DAP: Efficient Detection Against Probabilistic Cloning Attacks in Anonymous RFID Systems</font>**](),” **IEEE Transactions on Industrial Informatics**, vol. 18, no. 1, pp. 345-355, 2022. **(SCI一区)**
+- **<font color= red>[TII'22]</font>** H. Chen, X. Ai, **K. Lin**, N. Yan, N. Jiang, Z. Wang, J. Yu. “[**<font color= BLACK>DAP: Efficient Detection Against Probabilistic Cloning Attacks in Anonymous RFID Systems</font>**](),” **IEEE Transactions on Industrial Informatics**, vol. 18, no. 1, pp. 345-355, 2022. **(SCI一区)**
 
--**<font color= red>[JNCA'19]</font>** X. Zhang, H. Chen, **K. Lin**, Z. Wang, J. Yu, and L. Shi. “[**<font color= BLACK>RMTS: A Robust Clock Synchronization Scheme for Wireless Sensor Networks</font>**](),” **Journal of Network and Computer Applications**, vol.135, no.1, pp.1-10, 2019. **(SCI二区)**</li>
+- **<font color= red>[JNCA'19]</font>** X. Zhang, H. Chen, **K. Lin**, Z. Wang, J. Yu, and L. Shi. “[**<font color= BLACK>RMTS: A Robust Clock Synchronization Scheme for Wireless Sensor Networks</font>**](),” **Journal of Network and Computer Applications**, vol.135, no.1, pp.1-10, 2019. **(SCI二区)**</li>
 </ul>
 
 
