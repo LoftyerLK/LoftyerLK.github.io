@@ -30,6 +30,4 @@ title: Publications
 
 - **<font color= red>[MSN'22]</font>** **K. Lin**,  H. Chen, N. Yan, Z. Ni, and Z. Li. “[**<font color= BLACK>Compact Unknown Tag Identification for Large-Scale RFID Systems</font>**](https://ieeexplore.ieee.org/document/10076567),” in Proc. of **MSN 2022**. **<font color= blue>(CCF C)</font>**
 
----
 
-<h3><font face="新罗马">Academic Part-time Jobs</font></h3>
