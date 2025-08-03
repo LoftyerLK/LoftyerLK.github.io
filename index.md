@@ -20,4 +20,4 @@ An Associate Professor, Master's Supervisor, Executive Committee Member of the I
 <h3><font face="新罗马">Academic Part-time Jobs</font></h3>
 
 - Executive Committee Member of CCF Internet of Things Special Committee
-- Served as a reviewer for several international journals such as IEEE TIFS and IEEE TGCN
+- SServed as a reviewer for several prestigious international journals such as IEEE TIFS and IEEE TGCN
