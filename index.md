@@ -9,7 +9,7 @@ An Associate Professor, Master's Supervisor, Executive Committee Member of the I
 
 ---
 
-<h3><font face="新罗马">Research Interests</font></h3>
+<img src="/images/S-I.png"><h3><font face="新罗马">Research Interests</font></h3></img>
 
 - Internet of Things (IoTs)
 - Radio Frequency Identification (RFID) Technology
@@ -20,4 +20,4 @@ An Associate Professor, Master's Supervisor, Executive Committee Member of the I
 <h3><font face="新罗马">Academic Part-time Jobs</font></h3>
 
 - Executive Committee Member of CCF Internet of Things Special Committee
-- SServed as a reviewer for several prestigious international journals such as IEEE TIFS and IEEE TGCN
+- Served as a reviewer for several prestigious international journals such as IEEE TIFS and IEEE TGCN
