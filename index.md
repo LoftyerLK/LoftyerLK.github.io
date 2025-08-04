@@ -9,7 +9,7 @@ An Associate Professor, Master's Supervisor, Executive Committee Member of the I
 
 ---
 
-<img src="/images/S-I.png"><h3><font face="新罗马">Research Interests</font></h3></img>
+<img src="/images/logo/S-I.png" width="20" height="20" style="float:left;"><h3><font face="新罗马">Research Interests</font></h3>
 
 - Internet of Things (IoTs)
 - Radio Frequency Identification (RFID) Technology
