@@ -5,7 +5,7 @@ layout: page
 
 Here is **Kai Lin (林凯)**.<br>
 
-An Associate Professor, Master's Supervisor, Executive Committee Member of the Internet of Things Special Committee of CCF. 
+An Associate Professor of Qingdao University of Science and Technology, Master's Supervisor, Executive Committee Member of the Internet of Things Special Committee of CCF. 
 
 ---
 
