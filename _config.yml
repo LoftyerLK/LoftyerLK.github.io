@@ -54,7 +54,7 @@ owner:
 # --------------------------------------------------
 links:
   - title: Home
-    url: https://KaiLin.com
+    url: /
   - title: Publications
     url: /publications
   - title: Funding
