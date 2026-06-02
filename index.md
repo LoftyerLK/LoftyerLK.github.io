@@ -19,5 +19,5 @@ Here is **Kai Lin (林凯)**, an associate professor of Qingdao University of Sc
 
 <h3><font face="新罗马">Academic Part-time Jobs</font></h3>
 
-- Executive Committee Member of CCF Internet of Things Special Committee
-- Served as a reviewer for several prestigious international journals such as IEEE TDSC, IEEE TCC and IEEE TGCN
+- Executive Committee Member of CCF Internet of Things Special Committee.
+- Served as a reviewer for several prestigious international journals such as IEEE TDSC, IEEE TMC, IEEE TCC and IEEE TGCN.
