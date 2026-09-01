@@ -61,8 +61,8 @@ links:
     url: /funding
   - title: Awards
     url: /awards
-  - title: patents
-    url: /patents
+  #- title: patents
+   # url: /patents
   - title: 中文
     url: /CN
 
