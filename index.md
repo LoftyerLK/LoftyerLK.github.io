@@ -9,7 +9,7 @@ Here is **Kai Lin (林凯)**, an associate professor of Qingdao University of Sc
 
 <!-- <div align=left><img src="/images/logo/S-I.png" width="25" height="25" style="float:left;">  -->
 
-<h3><font face="新罗马">Research Interests</font></h3> 
+<h3><font face="Times New Roman">Research Interests</font></h3> 
 
 - Internet of Things (IoTs)
 - Radio Frequency Identification (RFID) Technology
@@ -17,7 +17,7 @@ Here is **Kai Lin (林凯)**, an associate professor of Qingdao University of Sc
 
 ---
 
-<h3><font face="新罗马">Academic Part-time Jobs</font></h3>
+<h3><font face="Times New Roman">Academic Part-time Jobs</font></h3>
 
 - Executive Committee Member of CCF Internet of Things Special Committee.
 - Served as a reviewer for several prestigious international journals such as IEEE TDSC, IEEE TMC, IEEE TCC and IEEE TGCN.

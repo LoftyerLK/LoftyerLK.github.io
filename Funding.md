@@ -6,9 +6,7 @@ title: Funding
 
 ---
 
-<h3><font face="新罗马"></font></h3>
-
-
+<h3><font face="Times New Roman"></font></h3>
 <ul>
   <li>面向感算融合RFID系统的标签监测技术研究, 国家自然科学基金青年科学基金项目（C类）, 62502252, 2026.01-2028.12, 30万, 主持</li>
 </ul>
