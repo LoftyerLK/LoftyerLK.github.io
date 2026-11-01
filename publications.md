@@ -10,7 +10,7 @@ title: Publications
 
 
 
- - **<font color= red>[IoTJ'26]</font>** L. Xin, **K. Lin^* **, J. Wang, Y. Gao, J. Zhuo. “[**<font color= BLACK>Adaptive Joint Jamming Decision-Making for Underwater Acoustic Communications</font>**](https://ieeexplore.ieee.org/document//),” in **IEEE Internet of Things Journal**, Accepted, 2026. **<font color= blue>(SCI一区)</font>**
+ - **<font color= red>[IoTJ'26]</font>** L. Xin, **K. Lin***, J. Wang, Y. Gao, J. Zhuo. “[**<font color= BLACK>Adaptive Joint Jamming Decision-Making for Underwater Acoustic Communications</font>**](https://ieeexplore.ieee.org/document//),” in **IEEE Internet of Things Journal**, Accepted, 2026. **<font color= blue>(SCI一区)</font>**
 
  - **<font color= red>[TMC'24]</font>** **K. Lin**, H. Chen, N. Yan, Z. Ni, Z. Wang, and J. Yu. “[**<font color= BLACK>Double Polling Based Tag Information Collection for Sensor-Augmented RFID Systems</font>**](https://ieeexplore.ieee.org/document/10129835/),” in **IEEE Transactions on Mobile Computing**, vol. 23, no. 5, pp. 3496-3509, 2024. **<font color= blue>(CCF A, SCI一区)</font>**
 
